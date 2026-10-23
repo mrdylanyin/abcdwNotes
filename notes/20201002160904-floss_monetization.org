@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d9bcc7ab-e43b-4aa4-8e92-bd07d040dcaa
 :END:
-#+title: FLOSS monetization
+#+title: FOSS monetization
 - related :: [[id:4f2f7e02-e934-4525-8404-7d4df54ed217][Finances]]
 
 * Some options
@@ -50,3 +50,5 @@
 - [[https://www.opensourceforu.com/2009/08/deeproot-and-youre-saying-theres-no-money-in-the-foss-business/][And You’re Saying There’s No Money in the FOSS Business?]] :: random article.
 - [[https://www.researchgate.net/publication/228465137_Business_models_in_FLOSS-based_companies][Business models in FLOSS-based companies]] :: an article/research
   published in 2007.
+- [[https://wikiless.tiekoetter.com/wiki/Business_models_for_open-source_software?lang=en][Business models for open-source software]] :: wiki article.
+- https://plausible.io/blog/open-source-funding :: article on foss monetezation by [[id:81d12f93-6b14-4af6-bd17-bcb4a8a4c167][Plausible]].

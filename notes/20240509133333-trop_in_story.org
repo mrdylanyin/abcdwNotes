@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e198c83b-f290-4b49-b75d-6769793ee9e8
+:END:
+#+title: trop.in/story
+
+The main plot: Making the development sane, while running from the
+war.
+
+Trying to make dotfiles fucking maintainable.
+
+
+To run FOSS business, get PhD and start teaching in University.

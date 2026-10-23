@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       df5ab250-b61d-4d0b-9d2a-2b7dd2415549
+:END:
+#+title: cons.town
+
+Consensus Operated Network Services.
+
+pubnix-like community infrastructure
+
+Good example of integrated self-hosted services is
+https://wiki.gentoo.org/wiki/Gentoo_Wiki:About
+
+This infrastructure can be shared with RDE project, can be used for
+Guix substitutes mirror and/or Guix substitutes as a service.
+
+* Inspiration
+- https://tchncs.de/en/
+
+* Goals
+- Make content consumption mindful.
+- Make web interaction private and reliable.
+- Make services experience integrated.
+
+* Costs
+- https://www.pikapods.com/apps :: source of inspiration and
+  approximate prices/expenses.
+
+* Governance
+- Global Maintainers :: responsible for core infrastructure, very conservative.
+- Team Maintainers :: responsible for team infrastructure, open for experiments.
+Consensus management [[id:bfce408f-ea35-47f9-a94b-99491bd2fbbc][process]].
+https://autonomic.zone/blog/2021/01/how-we-make-decisions/
+
+I've written a [[id:9335a7cc-b92b-4b09-a9c6-b2776655fac4][Consensus Cheatsheet]] to follow during discussions.
+
+A list of principles and values for inspiration:
+https://oxide.computer/principles
+
+* Hardware
+- https://contabo.com/en/
+
+* Software To Deploy
+** Base
+- [[id:3b1eb55e-f397-4d48-8332-75e3a46de459][Setting up LDAP and SSO]], [[id:9272f2b9-d4ea-41ce-990b-c89a68ddd9c8][Authentik]]
+- SSL, forward proxy, probably Traefik.
+- Wiki :: for community [[id:7c3d12f1-1596-432e-b2d7-b0ba758430cb][Knowledge sharing]], [[https://www.xwiki.org/xwiki/bin/view/Main/WebHome][XWiki]].
+- Laminar CI
+- Guix Substitutes
+- https://forwarddomain.net/
+
+** Communication
+- https://github.com/apache/incubator-answer :: Q&A service.
+- [[id:79b7fa60-81c9-42e9-ad13-7d62f24301e0][Discource]] :: forum platform.
+
+** Project [[id:4f2f7e02-e934-4525-8404-7d4df54ed217][Finances]]
+https://awesome-selfhosted.net/tags/money-budgeting--management.html
+- https://bigcapital.app/
+- https://akaunting.com/
+- https://www.invoiceninja.org/
+
+** Governance
+- https://www.loomio.com/ :: [[id:ad1b8a1c-0ac6-425a-ad7f-52272251a396][Self-Hosted]] decision making tool.
+- https://schedulingkit.com/ or https://cal.com :: to find a time,
+  which works for everyone in the team.
+
+** Content Cnosumption
+- https://www.newsblur.com :: Featureful RSS Reader with mobile app.
+- FreshRSS/TinyTinyRSS :: clean, customizable and extandable.
+- https://docs.rsshub.app/guide/ :: everything to RSS.
+
+** Nice to Have
+- ceph for FS.
+- ngrok/frp
+- https://www.nocodb.com/ :: spreadsheet and integrations for your database.
+
+* Future Ideas
+- https://nixbuild.net/
+
+* Nice related domains
+- cons.camp :: retreat/school/offline meetup.
+- cons.im :: xmpp name.
+- cons.cafe ::
+- cons.chat ::
+- cons.house ::
+- cons.city :: when we are getting bigger.
+- cons.country :: too big :)
+- cons.space :: like really big.
+- cons.cloud ::
+- cons.computer ::
+- cons.sh ::
+- cons.fm :: internet radio
+- cons.jobs ::
+- cons.link ::
+- ct.ws :: cons town web sites. url shortener/web pages hosting.
+- cons.tube :: peertube? yt frontend?
+- cons.social :: pleroma?

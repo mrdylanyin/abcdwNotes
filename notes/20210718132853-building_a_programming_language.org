@@ -3,6 +3,9 @@
 :END:
 #+title: Building a Programming Language
 
+* Papers
+- [[https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf][Three Implementation Models for Scheme]]
+
 * Ideas
 This is mix of problem/possible solutions.
 
@@ -81,11 +84,15 @@ Read the book about programming languages
 [[https://techreports.cs.unc.edu/papers/87-011.pdf][Three Implementation Models for Scheme]]
 [[id:ec056814-d1fb-49ee-b4cd-a71840bca1ee][Practical Foundations for Programming Languages]]
 https://justinethier.github.io/cyclone/docs/r7rs.pdf
+[[https://youtu.be/_ahvzDzKdB0][Growing a Language, by Guy Steele]]
 
 ** Books
 https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/
 https://pragprog.com/titles/7lang/seven-more-languages-in-seven-weeks/
 https://dmkpress.com/catalog/computer/programming/978-5-94074-539-6/
+
+** Numbers
+https://www.deinprogramm.de/sperber/papers/numerical-tower.pdf
 
 ** Security
 [[id:e08bd26b-3df9-4d36-8887-3a503c1b7e0d][What Are Capabilities?]]
@@ -101,7 +108,9 @@ On parentheses less syntax
 https://beautifulracket.com/appendix/thoughts-on-rhombus.html
 
 ** Interesting Links
+- [[https://codeberg.org/scheme/r7rs/issues/127][What should be the features of the language RωRS?]]
 - https://www.draketo.de/software/guile-10x
+- https://www.nongnu.org/guile-reader/doc/guile-reader.html
 
 ** Examples
 *** Other interesting languages
@@ -112,3 +121,6 @@ https://www.ponylang.io/discover/#what-is-pony
 - Fennel
 *** Query languges
 https://www.malloydata.dev/
+
+** Problems
+- https://clojure-goes-fast.com/blog/clojures-deadly-sin/
